@@ -1,6 +1,6 @@
 # React + Vite
 
-Your site is live at https://pondarivenugopal.github.io/ecommerce-shop/
+site is live at https://pondarivenugopal.github.io/ecommerce-shop/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
